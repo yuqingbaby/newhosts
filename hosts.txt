@@ -749,7 +749,6 @@
 127.0.0.1 zy.rzhushou.com
 127.0.0.1 zydz88.114ic.com
 127.0.0.1 zydz888.114ic.com
-127.0.0.1 www.baidu.com127.0.0.1 17500
 127.0.0.1 mime.baidu.com
 127.0.0.1 api.bbs.miui.com
 127.0.0.1 api.account.xiaomi.com
