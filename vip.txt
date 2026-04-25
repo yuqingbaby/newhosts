@@ -1,3 +1,6 @@
+127.0.0.1       localhost
+::1             ip6-localhost
+127.0.0.1 www.baidu.com
 127.0.0.1 chapangzhan.com
 127.0.0.1 download.2.1212338883.wz.gcloudgbs.com
 127.0.0.1 pre-download.1.1212338883.wz.gcloudgbs.com
@@ -238,9 +241,6 @@
 127.0.0.1 qosidc.gcloudsdk.com
 127.0.0.1 qosidc.gcloud.qq.com
 127.0.0.1 qos.gcloud.qq.com
-127.0.0.1       localhost
-::1             ip6-localhost
-127.0.0.1 www.baidu.com
 127.0.0.1 mpvideo.qpic.cn
 127.0.0.1 gvideo.qpic.cn
 127.0.0.1 wxsv.qpic.cn
