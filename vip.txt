@@ -10275,10 +10275,8 @@
 36.155.240.19$network
 115.236.128.36$network
 182.254.118.119$network
-101.91.23.236$network
 115.236.128.57$network
 157.148.45.163$network
-140.249.64.60$network
 27.155.112.93$network
 111.30.185.235$network
 121.4.8.102$network
@@ -10322,7 +10320,6 @@
 114.222.112.57$network
 183.60.225.124$network
 81.68.134.31$network
-101.226.96.218$network
 101.91.42.188$network
 140.207.176.207$network
 183.60.225.125$network
@@ -10537,7 +10534,6 @@
 114.222.113.58$network
 101.91.46.157$network
 180.109.193.147$network
-101.226.95.34$network
 114.222.113.60$network
 120.133.65.239$network
 192.168.255.9$network
@@ -10560,7 +10556,6 @@
 111.123.41.102$network
 116.196.140.75$network
 175.6.84.111$network
-42.81.252.187$network
 113.240.72.25$network
 61.151.177.86$network
 101.89.55.14$network
@@ -11279,7 +11274,6 @@
 ||www.imqq.com^
 ||mobile.imqq.com^
 ||edu.fitgroup.com^
-||cn.voice.gcloudcs.com^
 ||ipv6.cn.voice.gcloudcs.com^
 ||capi.voice.gcloud.qq.com^
 ||t.dstrategy.myapp.com^
@@ -27680,3 +27674,16 @@
 ||lh3.googleadsserving.cn^
 ||clickserve.dartsearch.net^
 ||redirector.xn--ngstr-lra8j.com^
+@@101.226.96.218$network
+@@101.226.95.34$network
+@@||cn.voice.gcloudcs.com^
+@@43.135.105.44$network
+@@101.91.32.45$network
+@@101.91.23.143$network
+@@182.254.116.117$network
+@@42.81.252.142$network
+@@101.91.32.12$network
+@@101.91.23.236$network
+@@42.81.252.187$network
+@@42.81.252.141$network
+@@140.249.64.60$network
